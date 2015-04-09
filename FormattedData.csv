@@ -1,0 +1,177 @@
+Sport,Gender,Year,Expenses
+Baseball,1,2003,1350034
+Baseball,1,2004,1142828
+Baseball,1,2005,1517783
+Baseball,1,2006,1627901
+Baseball,1,2007,1522289
+Baseball,1,2008,1612684
+Baseball,1,2009,1849062
+Baseball,1,2010,2239744
+Baseball,1,2011,2396431
+Baseball,1,2012,2154115
+Baseball,1,2013,2246594
+Basketball (M),1,2003,3586113
+Basketball (M),1,2004,4503085
+Basketball (M),1,2005,4080272
+Basketball (M),1,2006,3611347
+Basketball (M),1,2007,6551454
+Basketball (M),1,2008,5464911
+Basketball (M),1,2009,6478312
+Basketball (M),1,2010,6863233
+Basketball (M),1,2011,5689254
+Basketball (M),1,2012,4856478
+Basketball (M),1,2013,5615677
+Basketball (W),0,2003,3560970
+Basketball (W),0,2004,3189476
+Basketball (W),0,2005,3852444
+Basketball (W),0,2006,2628217
+Basketball (W),0,2007,4233078
+Basketball (W),0,2008,5505854
+Basketball (W),0,2009,6022984
+Basketball (W),0,2010,5892060
+Basketball (W),0,2011,6172601
+Basketball (W),0,2012,3753604
+Basketball (W),0,2013,4270690
+Track & Field (M),1,2003,1186362
+Track & Field (M),1,2004,1271966
+Track & Field (M),1,2005,1577500
+Track & Field (M),1,2006,1477509
+Track & Field (M),1,2007,1381507
+Track & Field (M),1,2008,1382343
+Track & Field (M),1,2009,1402745
+Track & Field (M),1,2010,1416649
+Track & Field (M),1,2011,1425899
+Track & Field (M),1,2012,1485407
+Track & Field (M),1,2013,1422963
+Track & Field (F),0,2003,1005938
+Track & Field (F),0,2004,1073079
+Track & Field (F),0,2005,1394447
+Track & Field (F),0,2006,1168253
+Track & Field (F),0,2007,1209123
+Track & Field (F),0,2008,1443199
+Track & Field (F),0,2009,1692693
+Track & Field (F),0,2010,1619541
+Track & Field (F),0,2011,1659168
+Track & Field (F),0,2012,1434171
+Track & Field (F),0,2013,1430280
+Football,1,2003,12825761
+Football,1,2004,13586845
+Football,1,2005,12224675
+Football,1,2006,13903184
+Football,1,2007,16240918
+Football,1,2008,22962809
+Football,1,2009,17357345
+Football,1,2010,19135650
+Football,1,2011,19786617
+Football,1,2012,27850351
+Football,1,2013,21670088
+Golf (M),1,2003,475452
+Golf (M),1,2004,451372
+Golf (M),1,2005,481709
+Golf (M),1,2006,506837
+Golf (M),1,2007,538626
+Golf (M),1,2008,587174
+Golf (M),1,2009,738089
+Golf (M),1,2010,848539
+Golf (M),1,2011,761828
+Golf (M),1,2012,959092
+Golf (M),1,2013,793078
+Golf (W),0,2003,433949
+Golf (W),0,2004,429861
+Golf (W),0,2005,463602
+Golf (W),0,2006,363717
+Golf (W),0,2007,518974
+Golf (W),0,2008,601139
+Golf (W),0,2009,776072
+Golf (W),0,2010,866732
+Golf (W),0,2011,819437
+Golf (W),0,2012,679376
+Golf (W),0,2013,846491
+Rowing,0,2003,905203
+Rowing,0,2004,928549
+Rowing,0,2005,1077142
+Rowing,0,2006,929692
+Rowing,0,2007,1138461
+Rowing,0,2008,1090386
+Rowing,0,2009,1440479
+Rowing,0,2010,1388038
+Rowing,0,2011,1435511
+Rowing,0,2012,1549345
+Rowing,0,2013,1448446
+Soccer,0,2003,774852
+Soccer,0,2004,759781
+Soccer,0,2005,944044
+Soccer,0,2006,749121
+Soccer,0,2007,1068379
+Soccer,0,2008,1135995
+Soccer,0,2009,1327794
+Soccer,0,2010,1286248
+Soccer,0,2011,1515606
+Soccer,0,2012,1546550
+Soccer,0,2013,1423409
+Softball,0,2003,880915
+Softball,0,2004,890102
+Softball,0,2005,1073563
+Softball,0,2006,839414
+Softball,0,2007,1181191
+Softball,0,2008,1275289
+Softball,0,2009,1345629
+Softball,0,2010,1652164
+Softball,0,2011,1738902
+Softball,0,2012,1654544
+Softball,0,2013,1996040
+Swimming (W),1,2003,1053935
+Swimming (W),1,2004,994417
+Swimming (W),1,2005,1004948
+Swimming (W),1,2006,1064428
+Swimming (W),1,2007,1083013
+Swimming (W),1,2008,1561025
+Swimming (W),1,2009,1781705
+Swimming (W),1,2010,1553860
+Swimming (W),1,2011,1844825
+Swimming (W),1,2012,1462246
+Swimming (W),1,2013,1486852
+Swimming (M),0,2003,780024
+Swimming (M),0,2004,887070
+Swimming (M),0,2005,898923
+Swimming (M),0,2006,699513
+Swimming (M),0,2007,887074
+Swimming (M),0,2008,1355401
+Swimming (M),0,2009,1492918
+Swimming (M),0,2010,1908011
+Swimming (M),0,2011,1698111
+Swimming (M),0,2012,1462246
+Swimming (M),0,2013,1644495
+Tennis (M),1,2003,601093
+Tennis (M),1,2004,608970
+Tennis (M),1,2005,537646
+Tennis (M),1,2006,658840
+Tennis (M),1,2007,749886
+Tennis (M),1,2008,730429
+Tennis (M),1,2009,889012
+Tennis (M),1,2010,989633
+Tennis (M),1,2011,895921
+Tennis (M),1,2012,921437
+Tennis (M),1,2013,980734
+Tennis (W),0,2003,603901
+Tennis (W),0,2004,609514
+Tennis (W),0,2005,555798
+Tennis (W),0,2006,492845
+Tennis (W),0,2007,668249
+Tennis (W),0,2008,693437
+Tennis (W),0,2009,797573
+Tennis (W),0,2010,855091
+Tennis (W),0,2011,827816
+Tennis (W),0,2012,863643
+Tennis (W),0,2013,897282
+Volleyball ,0,2003,991583
+Volleyball ,0,2004,804829
+Volleyball ,0,2005,1094041
+Volleyball ,0,2006,699181
+Volleyball ,0,2007,926234
+Volleyball ,0,2008,1131249
+Volleyball ,0,2009,1088697
+Volleyball ,0,2010,1148576
+Volleyball ,0,2011,1317862
+Volleyball ,0,2012,1471060
+Volleyball ,0,2013,1394664
